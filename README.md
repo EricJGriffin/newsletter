@@ -1,0 +1,1 @@
+This project includes the Front-End and Back-End of a web application. The Back-End is a RESTful API made with Node.js, Express, mongoose and uses MongoDB as a database. The Front-End which consumes the API was made with Angular 8
