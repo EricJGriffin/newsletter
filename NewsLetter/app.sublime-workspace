@@ -1,0 +1,371 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"allow",
+				"allowed_suits"
+			],
+			[
+				"colored",
+				"colored"
+			],
+			[
+				"make",
+				"make_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1037,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "models/sublist.js",
+			"settings":
+			{
+				"buffer_size": 641,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/newsletter",
+		"/C/Projects/newsletter/models"
+	],
+	"file_history":
+	[
+		"/C/Projects/newsletter/app.js",
+		"/C/Users/TheCoolestGiftEver/Desktop/busApp/main.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/fighters_inches.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/Tiger_pickle.pickle",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/pet.json",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/json_pickle.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/pickling.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/fighters.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/family.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/users.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/bs-navigation.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/bs-basics.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/html_ex.html",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/example_csv.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/writer.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/fighters.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/testTxt.txt",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/fileIOtest.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/bstext.txt",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/find_and_replace.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/properties.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/test.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/say_sup.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/test_cards.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/deck_of_cards.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/counter.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/first_program.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/comments.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/Milage_Converter.py",
+		"/C/Users/TheCoolestGiftEver/Documents/My Python Files/Chapter 12/Exercises/CeeLo.py",
+		"/C/Users/TheCoolestGiftEver/input.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/bouncer.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/RPSBasic.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/repeat.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/numLoop.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/smiley.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/copying.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/guess.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/doctest_demo.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/unittesting.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/unittesting_folder/unittesting.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/unittesting_folder/activities.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/activities.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/playlist.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/texting.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/kwargs_testing.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/lambda.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/decorators.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/decorators_args_kwargs.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/functools_wrap.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/timing.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/freakintest.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/sorted.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/zip.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/interleave.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/keyword.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/colors.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/colors.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/pyfiglet.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/pyfig2.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/say_hi.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/get_post.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/headers.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/params.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/new_params.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/API_proj.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/class_Att.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/tryAPI.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/newA.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/special_methods.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/super_dict.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/doctest.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/decorators_*args.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/newDir/test_meth.py",
+		"/C/Users/TheCoolestGiftEver/Documents/My Python Files/Chapter 12/Examples/dice_poker.py",
+		"/C/Users/TheCoolestGiftEver/Documents/My Python Files/Chapter 12/Exercises/ATM.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/messin/demo.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1037,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/sublist.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								353,
+								353
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

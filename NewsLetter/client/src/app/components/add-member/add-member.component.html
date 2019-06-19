@@ -1,0 +1,5 @@
+<form class="form" (ngSubmit)="onSubmit(form1)" #form1="ngForm">
+	<input type="text" name="name" required [(ngModel)]="name" placeholder="Add Name...">
+	<input type="text" name="email" required [(ngModel)]="email" placeholder="Add Email...">
+	<input type="submit" value="Submit" class="btn" [disabled]="form1.invalid">
+</form>

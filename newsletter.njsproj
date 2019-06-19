@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{35a6ea25-2b00-4d17-aee3-3c7fc83214a0}</ProjectGuid>
+    <ProjectHome>.</ProjectHome>
+    <ProjectView>ShowAllFiles</ProjectView>
+    <StartupFile />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{3AF33F2E-1136-4D97-BBB7-1795711AC8B8};{349c5851-65df-11da-9384-00065b846f21};{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}</ProjectTypeGuids>
+    <TypeScriptSourceMap>true</TypeScriptSourceMap>
+    <TypeScriptModuleKind>CommonJS</TypeScriptModuleKind>
+    <EnableTypeScript>true</EnableTypeScript>
+    <TypeScriptToolsVersion>3.1</TypeScriptToolsVersion>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">14.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <ItemGroup>
+    <Content Include="package.json" />
+    <Content Include="NewsLetter\package-lock.json" />
+    <Content Include="NewsLetter\package.json" />
+    <Content Include="NewsLetter\client\angular.json" />
+    <Content Include="NewsLetter\client\package-lock.json" />
+    <Content Include="NewsLetter\client\package.json" />
+    <Content Include="NewsLetter\client\tsconfig.app.json" />
+    <Content Include="NewsLetter\client\tsconfig.json" />
+    <Content Include="NewsLetter\client\tsconfig.spec.json" />
+    <Content Include="NewsLetter\client\tslint.json" />
+    <Content Include="NewsLetter\client\README.md" />
+    <Content Include="NewsLetter\client\e2e\tsconfig.json" />
+    <Content Include="NewsLetter\client\src\index.html" />
+    <Content Include="NewsLetter\client\src\styles.css" />
+    <Content Include="NewsLetter\client\src\favicon.ico" />
+    <TypeScriptCompile Include="NewsLetter\client\src\main.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\polyfills.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\test.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\e2e\src\app.e2e-spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\e2e\src\app.po.ts" />
+    <Content Include="NewsLetter\client\src\app\app.component.html" />
+    <Content Include="NewsLetter\client\src\app\app.component.css" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\app-routing.module.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\app.component.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\app.component.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\app.module.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\environments\environment.prod.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\environments\environment.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\models\Member.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\services\member.service.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\services\member.service.ts" />
+    <Content Include="NewsLetter\client\src\app\components\add-member\add-member.component.html" />
+    <Content Include="NewsLetter\client\src\app\components\add-member\add-member.component.css" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\add-member\add-member.component.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\add-member\add-member.component.ts" />
+    <Content Include="NewsLetter\client\src\app\components\member-item\member-item.component.html" />
+    <Content Include="NewsLetter\client\src\app\components\member-item\member-item.component.css" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\member-item\member-item.component.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\member-item\member-item.component.ts" />
+    <Content Include="NewsLetter\client\src\app\components\members\members.component.html" />
+    <Content Include="NewsLetter\client\src\app\components\members\members.component.css" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\members\members.component.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\members\members.component.ts" />
+    <Content Include="NewsLetter\client\src\app\components\layout\header\header.component.html" />
+    <Content Include="NewsLetter\client\src\app\components\layout\header\header.component.css" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\layout\header\header.component.spec.ts" />
+    <TypeScriptCompile Include="NewsLetter\client\src\app\components\layout\header\header.component.ts" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="NewsLetter" />
+    <Folder Include="NewsLetter\client" />
+    <Folder Include="NewsLetter\client\e2e" />
+    <Folder Include="NewsLetter\client\e2e\src" />
+    <Folder Include="NewsLetter\client\src" />
+    <Folder Include="NewsLetter\client\src\app" />
+    <Folder Include="NewsLetter\client\src\app\components" />
+    <Folder Include="NewsLetter\client\src\app\components\add-member" />
+    <Folder Include="NewsLetter\client\src\app\components\layout" />
+    <Folder Include="NewsLetter\client\src\app\components\layout\header" />
+    <Folder Include="NewsLetter\client\src\app\components\member-item" />
+    <Folder Include="NewsLetter\client\src\app\components\members" />
+    <Folder Include="NewsLetter\client\src\app\models" />
+    <Folder Include="NewsLetter\client\src\app\services" />
+    <Folder Include="NewsLetter\client\src\assets" />
+    <Folder Include="NewsLetter\client\src\environments" />
+    <Folder Include="NewsLetter\models" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <!--Do not delete the following Import Project.  While this appears to do nothing it is a marker for setting TypeScript properties before our import that depends on them.-->
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="False" />
+  <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsTools.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:48022/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://localhost:1337</CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}" User="">
+        <WebProjectProperties>
+          <StartPageUrl>
+          </StartPageUrl>
+          <StartAction>CurrentPage</StartAction>
+          <AspNetDebugging>True</AspNetDebugging>
+          <SilverlightDebugging>False</SilverlightDebugging>
+          <NativeDebugging>False</NativeDebugging>
+          <SQLDebugging>False</SQLDebugging>
+          <ExternalProgram>
+          </ExternalProgram>
+          <StartExternalURL>
+          </StartExternalURL>
+          <StartCmdLineArguments>
+          </StartCmdLineArguments>
+          <StartWorkingDirectory>
+          </StartWorkingDirectory>
+          <EnableENC>False</EnableENC>
+          <AlwaysStartWebServerOnDebug>False</AlwaysStartWebServerOnDebug>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
